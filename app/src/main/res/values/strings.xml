@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Taller4</string>
+    <string name="title_activity_d_etallea_ctivity">dETALLEaCTIVITY</string>
+    <string name="title_activity_detalle">DetalleActivity</string>
+</resources>
